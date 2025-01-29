@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea",
+    "date": "2024-04-15",
+    "prediction": "Home Win",
+    "confidence": 85,
+    "analysis": "Manchester United is in a good form"
+  },
+  {
+    "id": 2,
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Madrid",
+    "date": "2024-04-16",
+    "prediction": "Draw",
+    "confidence": 65,
+    "analysis": "Both teams are in good form"
+  },
+  {
+    "id": 3,
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Dortmund",
+    "date": "2024-04-17",
+    "prediction": "Away Win",
+    "confidence": 75,
+    "analysis": "Dortmund is in a good form"
+  }
+]
